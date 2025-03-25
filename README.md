@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Adel, I am using Github to display some projects which I hope to use to land myself a job.
+I'm Adel, I am using Github to display some projects which I will be linking to my CV.
 <!--
 **AdelSiddiquei/AdelSiddiquei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
